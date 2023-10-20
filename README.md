@@ -48,6 +48,9 @@ Diplôme de BTS SIO | 2023 - En formation
 
 ### Langue
 -Français : Langue Maternelle
+
 -Anglais : Opérationnel
+
 -Tamil : Langue Maternelle
+
 -Espagnol : Courant
