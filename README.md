@@ -40,8 +40,11 @@ Diplôme de BTS SIO | 2023 - En formation
 
 ### Centre d'intérêt
 -KARATE
+
 -MUSCULATION
+
 -NAGER
+
 
 ### Langue
 -Français : Langue Maternelle
