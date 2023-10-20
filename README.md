@@ -2,8 +2,9 @@
 CV DE Shakethan UTHAYAKUMAR - ETUDIANT AU LYCEE TURGOT EN BTS SERVICES INFORMATIQUES AUX ORGANISATIONS
 
 ### Compétence
--SISR
+-Solutions d'Infrastructure, Systèmes et Réseaux
 
+### Développement
 -HTML
 
 -CSS
@@ -22,19 +23,28 @@ CV DE Shakethan UTHAYAKUMAR - ETUDIANT AU LYCEE TURGOT EN BTS SERVICES INFORMATI
 
 -SQL
 
--VIRTUALBOX
+-PowerShell
 
--CISCO PACKET TRACER
-
--ARDUINO
-
--RGPD
-
--ADMINISTRATION SUR WINDOWS
-
--MAINTENANCE LINUX
+-Linux Bash
 
 -Créer un site web
+
+### Virtualisation
+-VIRTUALBOX
+
+### Réseau
+-CISCO PACKET TRACER
+
+### Système Embarqué
+-ARDUINO
+
+### Economie Droit Management
+-RGPD
+
+### Administration
+-ADMINISTRATION SUR WINDOWS
+
+-ADMINISTRATION SUR Linux
 
 ### Formation 
 -COLLEGE JACQUES JORISSEN - DRANCY 93700
