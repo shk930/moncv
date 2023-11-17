@@ -6,40 +6,33 @@ CV DE Shakethan UTHAYAKUMAR - ETUDIANT AU LYCEE TURGOT EN BTS SERVICES INFORMATI
 
 ### Développement
 -HTML
-
+-BOOTSTRAP
 -CSS
-
--GIT
-
+-GIT BASH
 -GITHUB
-
 -Python
-
 -MySQL
-
 -PhpMyAdmin
-
 -PHP
-
 -SQL
-
--PowerShell
-
+-PowerSHell
 -Linux Bash
-
--Créer un site web
+-Créer des sites web
 
 ### Virtualisation
 -VIRTUALBOX
 
 ### Réseau
 -CISCO PACKET TRACER
+-CISCO NETWORKING ESSENTIALS
+-ROUTAGE
+-DNS
+-DHCP
+-VoIP / TELEPHONIE SUR IP
 
 ### Cybersécurité
 -ROOTME
-
 -PIA
-
 -EBIOS
 
 ### Système Embarqué
