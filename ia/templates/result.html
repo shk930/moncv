@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Résultat de Prédiction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Résultat de Prédiction</h1>
+        <p>Longueur de la pétale : {{ length }} cm</p>
+        <p>Largeur de la pétale : {{ width }} cm</p>
+        <p class="{{ color_class }}">Sortie prédite : {{ prediction }}</p>
+        <a href="{{ url_for('index') }}"><button>Retour à la page d'accueil</button></a>
+    </div>
+</body>
+</html>
